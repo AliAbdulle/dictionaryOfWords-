@@ -1,0 +1,11 @@
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/bin/Debug/netcoreapp2.2/dictionaryOfWords.deps.json
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/bin/Debug/netcoreapp2.2/dictionaryOfWords.runtimeconfig.json
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/bin/Debug/netcoreapp2.2/dictionaryOfWords.runtimeconfig.dev.json
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/bin/Debug/netcoreapp2.2/dictionaryOfWords.dll
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/bin/Debug/netcoreapp2.2/dictionaryOfWords.pdb
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.csprojAssemblyReference.cache
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.csproj.CoreCompileInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.AssemblyInfoInputs.cache
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.AssemblyInfo.cs
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.dll
+/alidhobey/programming/nss/cohort31/Exercises/dictionaryOfWords/obj/Debug/netcoreapp2.2/dictionaryOfWords.pdb
